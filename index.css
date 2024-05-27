@@ -481,4 +481,14 @@ html {
     }
 }
 
+.social-icon{
+    display: flex;
+    margin-top: 1rem;
+    width: 15vw;
+    justify-content: space-evenly;
+}
 
+.social-icon i{
+    color: white;
+    font-size: 25gpx;
+}
